@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/AVINASH05T/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514286/cde3ee93-5aa7-4b0c-a56c-347c13cb5a30)
 
 
-### Name:
-### Register Number:
+### Name:AVINASH T
+### Register Number:23014109
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
