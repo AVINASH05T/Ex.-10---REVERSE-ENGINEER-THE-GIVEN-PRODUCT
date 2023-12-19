@@ -32,9 +32,11 @@
 
 ## Input:
 
-### Output:
-![image](https://github.com/AVINASH05T/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514286/cde3ee93-5aa7-4b0c-a56c-347c13cb5a30)
+![WhatsApp Image 2023-11-22 at 09 29 03_7b99dda9](https://github.com/AVINASH05T/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514286/93cce6c6-4abe-45cf-a292-685f3a7adfbe)
 
+### Output:
+![image](https://github.com/AVINASH05T/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514286/cde3ee93-5aa7-4b0c-a56c-347c13cb5a30)**
+![image](https://github.com/AVINASH05T/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514286/130bb8ba-76b1-411d-92c0-e2ae92f4bd8a)
 
 ### Name:AVINASH T
 ### Register Number:23014109
